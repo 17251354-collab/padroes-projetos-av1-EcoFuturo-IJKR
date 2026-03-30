@@ -6,9 +6,12 @@ O EcoFuturo Esuda é uma plataforma web gamificada que incentiva a adoção de p
 
 - Integrantes do Grupo:
 
-Igor Philipo 
+Igor Philipo
+
 João Vinícius
-Kamylle 
+
+Kamylle
+
 Roseli
 
 - Padrões de Projeto Implementados (1ª Avaliação)
