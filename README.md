@@ -16,12 +16,15 @@ Roseli
 
 - Padrões de Projeto Implementados (1ª Avaliação)
 
+
   
 
   Singleton
 Onde foi aplicado: Na classe (SistemaEcofuturo)
 
 Motivo da escolha: Garante que exista apenas uma instância do sistema central durante toda a execução, mantendo a consistência dos dados (usuários, moedas, catálogo, atividades) em toda a aplicação, evitando conflitos de estado.
+
+
 
 
 
@@ -33,7 +36,7 @@ Motivo da escolha: Fornece uma interface simplificada para o front-end acessar a
 
 
 
- -Tecnologia Usada:
+ Tecnologia Usada:
 
 HTML5 - Estrutura da aplicação 
 CSS3 (Tailwind CSS)- Estilização e responsividade 
