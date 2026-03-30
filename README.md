@@ -32,15 +32,15 @@ Chart.js - Gráficos e estatísticas
 
 - Funcionalidades Principais
 
-- ✅ Cadastro e login de usuários
-- ✅ Registro de atividades sustentáveis
-- ✅ Sistema de moedas por km percorrido
-- ✅ Catálogo de benefícios para resgate
-- ✅ Histórico de atividades
-- ✅ Dashboard com estatísticas pessoais
-- ✅ Relatórios de impacto ambiental (CO₂ reduzido)
-- ✅ Área administrativa (gestão de usuários, parceiros e benefícios)
-- ✅ Sistema de vouchers com QR Code
+-  Cadastro e login de usuários
+-  Registro de atividades sustentáveis
+-  Sistema de moedas por km percorrido
+-  Catálogo de benefícios para resgate
+-  Histórico de atividades
+-  Dashboard com estatísticas pessoais
+-  Relatórios de impacto ambiental (CO₂ reduzido)
+-  Área administrativa (gestão de usuários, parceiros e benefícios)
+-  Sistema de vouchers com QR Code
 
  - Como Executar o Projeto:
 
